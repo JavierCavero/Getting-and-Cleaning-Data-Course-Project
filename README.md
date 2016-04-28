@@ -41,7 +41,7 @@ In a very schematic way, upon downloaded the zip file and unzipping it into the 
 
 #Variable Names:
 As explained above, a variable names transformation is performed by the code. The rules followed in that transformation are:
-* Names as much descriptive as possible
+* Names as descriptive as possible
 * One string only, letters only, no numbers and no underscores.
 * All lower cases.
 
