@@ -44,5 +44,5 @@ As explained above, a variable names transformation is performed by the code. Th
 * Names as much descriptive as possible
 * One string only, letters only, no numbers and no underscores.
 * All lower cases.
-* 
+
 (Please be aware that being a course assignment the and not having an expertise on the topic, the chosen names may not be as descriptive or straightforward for an incumbent analyst as they should be).
